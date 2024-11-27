@@ -1,2 +1,1 @@
-# refxupdater.sh
-refx updater for macos/linux
+# ONLY RUN IN THE GAME DIRECTORY
